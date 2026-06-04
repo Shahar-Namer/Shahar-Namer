@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Shahar-Namer
 - 👀 I’m interested in AI
+- I’m working out of private repositories
 
 
 <!---
