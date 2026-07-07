@@ -1,7 +1,4 @@
-👋 Hi, I’m @Shahar-Namer
-👀 I’m interested in AI and data pipelines
-🌱 I’m currently building backend infrastructure for a new platform
-💼 I work primarily out of private repositories
+
 
 
 <!---
